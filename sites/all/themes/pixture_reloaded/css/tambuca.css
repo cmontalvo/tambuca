@@ -1,0 +1,164 @@
+/* Global */
+h1 {
+  color: #F47910;
+  font-size: 24px;
+  margin-bottom: 30px;
+}
+
+h2, h2 a {
+  color: #F47910 !important;
+  font-size: 18px;
+}
+
+h2 a:hover {
+  text-decoration: none;
+}
+.region-content {
+  margin: 25px;
+}
+#menu-bar .language-link.active {
+  display: none;
+}
+/* Home Page */
+.view-homepage .view-content .home-row {
+  height: 435px;
+  float: left;
+}
+.view-homepage .view-content .home-row .home-body {
+  width: 60%;
+  float: left;
+  padding-right: 16px;
+  font-size: 14px;
+  letter-spacing: 2px;
+  border-bottom: 1px solid #A0C370;
+  height: 355px;
+}
+.view-homepage .view-content .home-row .home-map {
+  float: left;
+  border-bottom: 1px solid #A0C370;
+  border-right: 1px solid #A0C370;
+  padding-right: 3px;
+}
+.view-homepage .view-footer .view-content .views-row {
+  border-bottom: 1px solid #A0C370;
+  border-right: 1px solid #A0C370;
+  float: left;
+  height: 370px;
+  margin-right: 28px;
+  overflow: hidden;
+  padding-right: 3px;
+  width: 265px;
+}
+.view-homepage .view-footer .view-display-id-block_1 .view-content .views-row .views-field-title {
+  font-family: Verdana;
+  font-size: 18pt;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: none;
+  color: #F47910;
+  text-align: center;
+  padding-top: 55px;
+}
+.view-homepage .view-footer .view-display-id-block_1 .view-content .views-row .views-field-body {
+  font-size: 21px;
+  padding-top: 20px;
+  font-style: oblique;
+  font-weight: bold;
+}
+/*Page Layout*/
+.page-type-page .region-content {
+  margin-top: 0;
+}
+.page-type-page .region-content h1.article-title {
+  display: none;
+}
+.page-type-page .region-content .field-name-body .field-items {
+  float: left;
+  margin-right: 50px;
+  text-align: center;
+  width: 300px;
+}
+.page-type-page #columns footer, 
+.page-type-page #columns nav {
+  display: none;
+}
+.page-type-page .field-name-field-page-image {
+  float: left;
+  width: 775px;
+}
+.page-type-page .region-content .article-content .field-item {
+  float: left;
+}
+.page-type-page .region-content .article-content .field-item .article-full {
+  margin: 0 !important;
+}
+.page-type-page .region-content .article-content .field-item .article-full .field-name-field-image {
+  margin-bottom: 0 !important;
+  margin-right: 0 !important;
+}
+.page-type-page .region-content .article-content .field-item .article-full .field-name-field-image .field-item {
+  margin: 0;
+}
+/*Image page*/
+.page-image-page .region-content h3 {
+  float: left;
+  width: 100%;
+}
+.page-image-page .region-content .views-row {
+  float: left;
+  margin-right: 75px;
+  text-align: center;
+  width: 220px;
+  border-right: 1px solid #A0C370;
+  border-bottom: 1px solid #A0C370;
+  padding-right: 3px;
+  margin-bottom: 30px;
+}
+.page-image-page .region-content .views-row a {
+  color: #F47910;
+}
+.page-image-page .region-content .views-row.views-row-first {
+  margin-left: 25px;
+}
+.page-image-page .region-content .views-row.views-row-last {
+  margin-right: 0;
+}
+.page-type-imagen .region-content .field-type-image {
+  float: left;
+  margin-top: 25px;
+}
+.page-type-imagen .region-content nav {
+  display: none;
+}
+.page-type-imagen .region-content #comments {
+  float: left;
+  margin-left: 25px;
+  margin-top: 0;
+}
+/* Booking page */
+.page-type-webform .region-content .submitted {
+  display: none;
+}
+.page-type-webform .region-content .webform-client-form .webform-component-fieldset,
+.page-type-webform .region-content .webform-client-form .webform-component,
+.page-type-webform .region-content .webform-client-form .form-actions {
+  width: 380px;
+  float: left;
+  margin-right: 25px;
+}
+/* Contact page */
+.page-contact .contact-form {
+  width: 380px;
+}
+/* Rates Page */
+#tarifas {
+  float: left;
+}
+#tarifas table, #tarifas td {
+  border: 1px solid #A0C370;
+}
+#tarifas table td {
+  vertical-align: top;
+  text-align: center;
+}

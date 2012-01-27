@@ -1,0 +1,28 @@
+.view-image-carousel .view-content {
+  border: 5px solid #A0C370;
+  height: 380px;
+  margin: 0 auto 25px;
+  overflow: hidden;
+  position: relative;
+  width: 750px;
+}
+.view-image-carousel .view-content #nav {
+  bottom: 10px;
+  margin-right: 10px;
+  position: absolute;
+  right: 0;
+  z-index: 100;
+}
+.view-image-carousel .view-content #nav a {
+  background-image: url('../images/tambuca/number_back.png');
+  margin-right: 5px;
+  width: 20px;
+  height: 20px;
+  float: left;
+  color: black;
+  text-align: center;
+}
+
+.view-image-carousel .view-content #nav a.activeSlide {
+  background-image: url('../images/tambuca/number_back_active.png');
+}
